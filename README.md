@@ -19,7 +19,7 @@
 
 -------------
 
-### <p align="center"> <b>What I have used</b> 🚀  </p>
+### <p align="center"> <b>What I Have Used</b> 🚀  </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ------------
 
-# 🏅 Baekjoon solved rank
+### 🏅 Baekjoon Rank
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
 
