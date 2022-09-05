@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -------------
 
-<p align="center"> 🐢 <b>Tech Stack</b> 🐢 </p>
+<p align="center"> <b>Tech Stack</b> 🐢 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -------------
 
-<p align="center"> 🚀 <b>What I have used</b> 🚀  </p>
+<p align="center"> <b>What I have used</b> 🚀  </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
