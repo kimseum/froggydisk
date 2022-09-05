@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
