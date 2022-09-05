@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>가운데</center>  
 -------------
 
 <p align="center"> <b>Tech Stack</b> 🐢 </p>
