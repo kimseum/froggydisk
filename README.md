@@ -1,9 +1,6 @@
 <div align="center">
 
 ![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
-
 
 -------------
 
@@ -33,5 +30,11 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
+
+------------
+
+# 🏅 Baekjoon solved rank
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
 
 </div>
