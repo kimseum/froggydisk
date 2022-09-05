@@ -1,5 +1,6 @@
 ![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
 
 
 
