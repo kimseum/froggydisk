@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 💻 <b>Tech Stack</b> 💻 </p>
+<p align="center"> 🕹 <b>Tech Stack</b> 🕹 </p>
 
 -------------
 
