@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -------------
 
-<p align="center"> <b><font size=20>Tech Stack</font></b> 🐢 </p>
+## <p align="center"> <b>Tech Stack</b> 🐢 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
