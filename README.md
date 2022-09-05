@@ -1,5 +1,7 @@
-![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
-<center> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim) </center>
+<div align="center">
+  ![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
+</div>
 
 
 <!--
