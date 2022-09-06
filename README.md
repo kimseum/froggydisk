@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=669900&height=200&section=header&text=FROG&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=soft&color=669900&height=200&section=header&text=FROG&fontSize=20)
 
 <div align="center">
 
