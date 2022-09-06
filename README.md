@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCAE1E,100:C71585&height=160&section=header&text=intro='Resume';&fontSize=25&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCAE1E,100:C71585&height=160&section=header"/>
  
 
 <div align="center">
