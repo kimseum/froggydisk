@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Welcome to Froggy Space 🐸
+# <b>Welcome to Froggy Space 🐸</b>
 ![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
 
 -------------
