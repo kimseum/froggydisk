@@ -44,7 +44,7 @@
 
 ### 📩 Contact Me
 
-<img src="https://img.shields.io/badge/test-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/sewoomkim93@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 </div>
 
