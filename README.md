@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=20&section=header&text=FROG&fontSize=20)
+
 <div align="center">
 
 ![froggydisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggydisk&show_icons=true&theme=dark)
@@ -38,3 +40,5 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sewoomkim)](https://solved.ac/sewoomkim)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
