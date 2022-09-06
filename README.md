@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FCAE1E,100:C71585&height=100&section=header&text=Welcome%20to%20Froggy%20Space!&fontSize=35&fontColor=98BF64&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FCAE1E,100:C71585&height=100&section=header&text=Welcome%20to%20Froggy%20Space!&fontSize=35&fontColor=98BF64&animation=twinkling"/>
  
 
 <div align="center">
